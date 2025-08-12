@@ -1,5 +1,5 @@
 # hello_streamlit.py
-import hello_streamlit as st
+import streamlit as st
 
 # 제목 추가
 st.title("🎉 내 첫 번째 Streamlit 앱!")
