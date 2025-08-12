@@ -1,0 +1,7 @@
+"""
+users.csv 컬럼 구조:
+- user_id: 고유 사용자 ID (문자열, 자동 생성)
+- username: 사용자명 (화면에 표시, 중복 불가)
+- password: 비밀번호 (평문 저장)
+- created_at: 가입일 (YYYY-MM-DD 형식)
+"""
